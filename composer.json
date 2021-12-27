@@ -1,0 +1,17 @@
+{
+    "name": "juliengidel/rupid",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Rupid\\": "src/"
+        },
+        "classmap": ["src"]
+    },
+    "authors": [
+        {
+            "name": "Jugid",
+            "email": "gidjulien@gmail.com"
+        }
+    ],
+    "require": {}
+}
